@@ -1,0 +1,2 @@
+# myOwnPromise
+自己实现的一个promise，和es6的promise功能一摸一样
